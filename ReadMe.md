@@ -112,6 +112,7 @@ Functional Programming (FP) | 関数型プログラミング | かんすうが�
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
 Optimization (to optimize) | 最適化（する）| さいてきか（する）|
 Revision number (git, application) | 版数 | はんすう |
+To process | 処理（する）| しょり（する）|
 
 
 ### Security
