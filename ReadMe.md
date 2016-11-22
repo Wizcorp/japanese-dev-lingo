@@ -111,7 +111,7 @@ Type | 型 | かた | as in data types
 Static | 静的 | せいてき |
 Dynamic | 動的 | どうてき |
 To optimize | 最適化（する） | さいてきか |
-Regexp | 正規表現 | せいきひょうげん |
+Regular expression | 正規表現 | せいきひょうげん |
 Value | 値 | あたい |
 Null | ヌル |  |
 
