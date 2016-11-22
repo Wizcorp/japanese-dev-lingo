@@ -43,6 +43,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Computer | コンピュータ / コンピューター |
+Personal computer, PC | パソコン | パソコン |
 User | ユーザ / ユーザー |
 Settings | 設定 | せってい |
 Configuration | 構成 | こうせい |
@@ -64,7 +65,7 @@ To display | 表示（する） | ひょうじ |
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Device | 端末 | たんまつ | Usually smartphones and tablets
+Device, terminal | 端末 | たんまつ | Often used to mean smartphones and tablets, but can also mean command-line
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Smartphone | スマホ / スマートフォン | |
 
@@ -85,7 +86,9 @@ English | Japanese | Kana | Notes
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
+Research and development, R&D | 開発研究 |
 Implementation | 実装 | じっそう |
+Design | 設計 | せっけい | Can be loosely used as architecture, also used in other branches of engineering
 Feature | 機能 | きのう |
 Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
@@ -106,6 +109,8 @@ To select | 選択（する） | せんたく |
 To search | 検索（する） | けんさく |
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
+Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
+Optimization (optimize) | 最適化（する）| さいてきか（する）|
 
 
 ### Security
@@ -127,8 +132,9 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
-Virtual server | 仮想サーバ | かそうサーバ |
+Virtual server | 仮想マシン・仮想サーバ | かそうマシン・かそうサーバ | Machine tends to be favoured in most openly available technical documentations (ie. VMWare, etc)
 Server layout / architecture | サーバ構成 | サーバこうせい |
+Hierarchical computer network | 階層計算機ネットワーク | かいそうけいさんきネットワーク | Rarely used
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
 
@@ -144,6 +150,7 @@ Beta version | ベータ版 | ベータばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
+Manager | 管理者 | かんりしゃ |
 
 
 ### Business
@@ -151,6 +158,9 @@ Management | 管理 | かんり | Of people, software, etc
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Sales / Business | 営業 | えいぎょう |
+Salesperson | 営業者 | えいぎょうしゃ |
+Executive, company official | 役員 | やくいん |
+Chief technical officer | 最後技術責任者 | さいごぎじゅつせきにんしゃ |
 Our company | 弊社 | へいしゃ |
 Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
