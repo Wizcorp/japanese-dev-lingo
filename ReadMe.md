@@ -111,6 +111,7 @@ Object Oriented Programming (OOP) | オブジェクト指向 | オブジェク�
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
 Optimization (optimize) | 最適化（する）| さいてきか（する）|
+Revision number (git, application) | 版数 | はんすう |
 
 
 ### Security
