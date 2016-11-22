@@ -135,7 +135,6 @@ Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
 Virtual server | 仮想マシン・仮想サーバ | かそうマシン・かそうサーバ | Machine tends to be favoured in most openly available technical documentations (ie. VMWare, etc)
 Server layout / architecture | サーバ構成 | サーバこうせい |
-Hierarchical computer network | 階層計算機ネットワーク | かいそうけいさんきネットワーク | Rarely used
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
 
