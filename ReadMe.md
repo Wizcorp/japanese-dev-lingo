@@ -58,7 +58,10 @@ To edit | 編集（する） | へんしゅう |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
 Video | 動画 | どうが |
+Picture | 写真 |　しゃしん
+Download | ダウンロード
 To display | 表示（する） | ひょうじ |
+To download | ダウンロード（する）
 
 
 ### Devices
