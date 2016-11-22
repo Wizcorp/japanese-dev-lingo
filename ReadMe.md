@@ -65,7 +65,7 @@ To display | 表示（する） | ひょうじ |
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Device, terminal | 端末 | たんまつ | Often used to mean smartphones and tablets, but can also mean command-line
+Device, terminal | 端末 | たんまつ | smartphones, tablets, e-readers, command-line interfaces, etc
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Smartphone | スマホ / スマートフォン | |
 
