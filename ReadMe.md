@@ -86,7 +86,7 @@ English | Japanese | Kana | Notes
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
-Research and development, R&D | 開発研究 |
+Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Can be loosely used as architecture, also used in other branches of engineering
 Feature | 機能 | きのう |
