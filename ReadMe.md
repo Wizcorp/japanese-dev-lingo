@@ -34,7 +34,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 * [jisho.org](http://www.jisho.org/): The best Japanese dictionary on the web.
 * [RikaiChan](http://www.polarcloud.com/rikaichan/): A popup Japanese dictionary tool for Firefox.
 * [RikaiKun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp): RikaiChan for Chrome.
-* [Safarikai](https://github.com/ashchan/safarikai): Rikaichan/rikaikun for Safari.
+* [Safarikai](https://github.com/ashchan/safarikai): RikaiChan for Safari.
 
 
 ## Word list
