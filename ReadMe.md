@@ -43,7 +43,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Computer | コンピュータ / コンピューター |
-Personal computer, PC | パソコン | パソコン |
+Personal computer, PC | パソコン |
 User | ユーザ / ユーザー |
 Settings | 設定 | せってい |
 Configuration | 構成 | こうせい |
@@ -110,7 +110,7 @@ To search | 検索（する） | けんさく |
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
-Optimization (optimize) | 最適化（する）| さいてきか（する）|
+Optimization (to optimize) | 最適化（する）| さいてきか（する）|
 Revision number (git, application) | 版数 | はんすう |
 
 
