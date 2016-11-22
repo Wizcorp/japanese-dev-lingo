@@ -110,7 +110,7 @@ Inherit (from X) | （Xを）継承（する） | けいしょう |
 Type | 型 | かた | as in data types
 Static | 静的 | せいてき |
 Dynamic | 動的 | どうてき |
-Optimize | 最適化（する） | さいてきか |
+To optimize | 最適化（する） | さいてきか |
 Regexp | 正規表現 | せいきひょうげん |
 Value | 値 | あたい |
 Null | ヌル |  |
