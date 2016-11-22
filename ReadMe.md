@@ -152,7 +152,7 @@ Beta version | ベータ版 | ベータばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
-Infrastructure | インフラ |
+Infrastructure | インフラ | |
 
 
 ### Business
