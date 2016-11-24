@@ -41,6 +41,17 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 ## Word list
 
+
+- [Computer And Application Usage](#computer-and-application-usage)
+- [Devices](#devices)
+- [Software development](#software-development)
+- [Security](#security)
+- [Servers](#servers)
+- [Operations](#operations)
+- [Business](#business)
+
+
+
 ### Computer and Application Usage
 
 English | Japanese | Kana | Notes
