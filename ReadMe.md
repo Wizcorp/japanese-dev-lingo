@@ -44,6 +44,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Computer | コンピュータ / コンピューター |
+Personal computer, PC | パソコン |
 User | ユーザ / ユーザー |
 Settings | 設定 | せってい |
 Configuration | 構成 | こうせい |
@@ -67,7 +68,7 @@ To copy and paste | コピペ（する） |
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Device | 端末 | たんまつ | Usually smartphones and tablets
+Device, terminal | 端末 | たんまつ | smartphones, tablets, e-readers, command-line interfaces, etc
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Smartphone | スマホ / スマートフォン | |
 
@@ -88,7 +89,9 @@ English | Japanese | Kana | Notes
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
+Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
+Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Feature | 機能 | きのう |
 Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
@@ -109,6 +112,10 @@ To select | 選択（する） | せんたく |
 To search | 検索（する） | けんさく |
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
+Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
+Optimization (to optimize) | 最適化（する）| さいてきか（する）|
+Revision number (git, application) | リビジョン番号 | リビジオン番号 |
+To process | 処理（する）| しょり（する）|
 Inherit (from X) | （Xを）継承（する） | けいしょう |
 Type | 型 | かた | as in data types
 Static | 静的 | せいてき |
@@ -138,7 +145,8 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
-Virtual server | 仮想サーバ | かそうサーバ |
+Virtual machine | 仮想マシン | かそうマシン・ |
+Virtual server  | 仮想サーバ | かそうサーバ |
 Server layout / architecture | サーバ構成 | サーバこうせい |
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
@@ -155,6 +163,7 @@ Beta version | ベータ版 | ベータばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
+Manager | 管理者 | かんりしゃ |
 Infrastructure | インフラ | |
 
 
@@ -163,6 +172,8 @@ Infrastructure | インフラ | |
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Sales / Business | 営業 | えいぎょう |
+Executive, company official | 役員 | やくいん |
+Chief technical officer | 最高技術責任者 | さいこうぎじゅつせきにんしゃ |
 Our company | 弊社 | へいしゃ |
 Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
