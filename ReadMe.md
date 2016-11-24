@@ -90,7 +90,8 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
-Engineer | PG (プログラマ) | ぷろぐらまー | 
+Programmer | PG/エンジニア | エンジニア | 
+Engineer | PG | ぷろぐらまー |
 Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
