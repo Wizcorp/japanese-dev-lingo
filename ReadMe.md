@@ -111,7 +111,7 @@ Object Oriented Programming (OOP) | オブジェクト指向 | オブジェク�
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
 Optimization (to optimize) | 最適化（する）| さいてきか（する）|
-Revision number (git, application) | 版数 | はんすう |
+Revision number (git, application) | リビジョン番号 | リビジオン番号 |
 To process | 処理（する）| しょり（する）|
 
 
