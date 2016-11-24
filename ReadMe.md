@@ -169,7 +169,7 @@ Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
 Manager | 管理者 | かんりしゃ |
 Infrastructure | インフラ | |
-System Administrator | インフラ |
+System administrator | インフラ |
 
 
 ### Business
