@@ -109,6 +109,14 @@ To select | 選択（する） | せんたく |
 To search | 検索（する） | けんさく |
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
+Inherit (from X) | （Xを）継承（する） | けいしょう |
+Type | 型 | かた | as in data types
+Static | 静的 | せいてき |
+Dynamic | 動的 | どうてき |
+To optimize | 最適化（する） | さいてきか |
+Regular expression | 正規表現 | せいきひょうげん |
+Value | 値 | あたい |
+Null | ヌル |  |
 
 
 ### Security
@@ -147,6 +155,7 @@ Beta version | ベータ版 | ベータばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
+Infrastructure | インフラ | |
 
 
 ### Business
