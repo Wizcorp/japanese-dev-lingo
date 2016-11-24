@@ -134,7 +134,8 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
-Virtual server | 仮想マシン・仮想サーバ | かそうマシン・かそうサーバ | Machine tends to be favoured in most openly available technical documentations (ie. VMWare, etc)
+Virtual machine | 仮想マシン | かそうマシン・ |
+Virtual server  | 仮想サーバ | かそうサーバ |
 Server layout / architecture | サーバ構成 | サーバこうせい |
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
