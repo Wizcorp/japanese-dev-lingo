@@ -34,6 +34,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 * [jisho.org](http://www.jisho.org/): The best Japanese dictionary on the web.
 * [RikaiChan](http://www.polarcloud.com/rikaichan/): A popup Japanese dictionary tool for Firefox.
 * [RikaiKun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp): RikaiChan for Chrome.
+* [Safarikai](https://github.com/ashchan/safarikai): RikaiChan for Safari.
 
 
 ## Word list
@@ -55,10 +56,12 @@ To reboot / restart | 再起動（する） | さいきどう |
 To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
 To edit | 編集（する） | へんしゅう |
+To delete / remove | 削除（する） | さくじょ |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
+To copy and paste | コピペ（する） |
 
 
 ### Devices
@@ -113,6 +116,14 @@ Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
 Optimization (to optimize) | 最適化（する）| さいてきか（する）|
 Revision number (git, application) | リビジョン番号 | リビジオン番号 |
 To process | 処理（する）| しょり（する）|
+Inherit (from X) | （Xを）継承（する） | けいしょう |
+Type | 型 | かた | as in data types
+Static | 静的 | せいてき |
+Dynamic | 動的 | どうてき |
+To optimize | 最適化（する） | さいてきか |
+Regular expression | 正規表現 | せいきひょうげん |
+Value | 値 | あたい |
+Null | ヌル |  |
 
 
 ### Security
@@ -153,6 +164,7 @@ Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
 Manager | 管理者 | かんりしゃ |
+Infrastructure | インフラ | |
 
 
 ### Business
