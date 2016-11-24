@@ -19,14 +19,16 @@ useful on a regular basis. A lot of this is driven by the words we hear our cust
 Contributions in the form of Pull Requests are very welcome! We would like to ask everyone to stick to some simple
 guidelines though, to keep things consistent and avoid it exploding into a copy of the dictionary.
 
+### Guidelines
+
 * Please do not add words that appear in dictionaries but not in common interaction with Japanese companies.
 * Please stick to the topics below. If you have a hard time identifying the topic, please mention it in your PR.
-* If some words are missing, but you don't know the Japanese yourself, feel free to request additions through an issue.
 * Please make sure to add kana versions of the Japanese words you add to the list in the `Kana` column.
 * If a word is already 100% kana, you should leave the kana cell empty.
 * If a word is a common suru-verb, please add `（する）` to the `Japanese` column.
 * If the English translation is not enough to convey the full meaning, use the `Notes` column to elaborate.
 * Don't try to align the columns in the markdown below, it's impossible.
+* If some words are missing, but you don't know the Japanese yourself, feel free to request additions through an issue.
 
 
 ## Useful tools
@@ -43,9 +45,9 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Computer | コンピュータ / コンピューター |
-Personal computer, PC | パソコン |
-User | ユーザ / ユーザー |
+Computer | コンピュータ / コンピューター | |
+Personal computer, PC | パソコン | |
+User | ユーザ / ユーザー | |
 Settings | 設定 | せってい |
 Configuration | 構成 | こうせい |
 To save | 保存（する） | ほぞん |
@@ -61,14 +63,14 @@ Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
-To copy and paste | コピペ（する） |
+To copy and paste | コピペ（する） | |
 
 
 ### Devices
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Device, terminal | 端末 | たんまつ | smartphones, tablets, e-readers, command-line interfaces, etc
+Device, terminal | 端末 | たんまつ | Smartphones, tablets, e-readers, command-line interfaces, etc
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Smartphone | スマホ / スマートフォン | |
 
@@ -101,29 +103,28 @@ To indent | インデント（する） | |
 foo / bar | ほげ / ほげほげ | |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
+Type | 型 | かた | As in data type
 Variable | 変数 | へんすう |
 Argument | 引数 | ひきすう | To a function or program
-Function | 関数 | かんすう |
+Null | ヌル | |
+Value | 値 | あたい |
 Return value | 戻り値 | もどりち |
+Function | 関数 | かんすう |
+Inherit (from X) | （Xを）継承（する） | けいしょう |
+Static | 静的 | せいてき |
+Dynamic | 動的 | どうてき |
+To optimize | 最適化（する） | さいてきか |
+Regular expression | 正規表現 | せいきひょうげん |
 Brackets, parentheses | 括弧 | かっこ |
 Synchronous | 同期 | どうき |
 Asynchronous | 非同期 | ひどうき |
 To select | 選択（する） | せんたく |
 To search | 検索（する） | けんさく |
+To process | 処理（する）| しょり |
+Revision number (git, application) | リビジョン番号 | リビジオンばんごう |
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
-Optimization (to optimize) | 最適化（する）| さいてきか（する）|
-Revision number (git, application) | リビジョン番号 | リビジオン番号 |
-To process | 処理（する）| しょり（する）|
-Inherit (from X) | （Xを）継承（する） | けいしょう |
-Type | 型 | かた | as in data types
-Static | 静的 | せいてき |
-Dynamic | 動的 | どうてき |
-To optimize | 最適化（する） | さいてきか |
-Regular expression | 正規表現 | せいきひょうげん |
-Value | 値 | あたい |
-Null | ヌル |  |
 
 
 ### Security
@@ -145,8 +146,8 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
-Virtual machine | 仮想マシン | かそうマシン・ |
 Virtual server  | 仮想サーバ | かそうサーバ |
+Virtual machine | 仮想マシン | かそうマシン |
 Server layout / architecture | サーバ構成 | サーバこうせい |
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
@@ -179,4 +180,4 @@ Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
 External / 3rd party | 外部 | がいぶ |
-Suspend, discontinue | 中止 | ちゅうし
+Suspend, discontinue | 中止 | ちゅうし |
