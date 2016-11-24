@@ -161,7 +161,7 @@ English | Japanese | Kana | Notes
 Sales / Business | 営業 | えいぎょう |
 Salesperson | 営業者 | えいぎょうしゃ |
 Executive, company official | 役員 | やくいん |
-Chief technical officer | 最後技術責任者 | さいごぎじゅつせきにんしゃ |
+Chief technical officer | 最高技術責任者 | さいこうぎじゅつせきにんしゃ |
 Our company | 弊社 | へいしゃ |
 Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
