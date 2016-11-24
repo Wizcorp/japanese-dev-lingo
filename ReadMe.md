@@ -24,7 +24,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 * Please do not add words that appear in dictionaries but not in common interaction with Japanese companies.
 * Please stick to the topics below. If you have a hard time identifying the topic, please mention it in your PR.
 * Please make sure to add kana versions of the Japanese words you add to the list in the `Kana` column.
-* If a word is already 100% kana, you should leave the kana cell empty.
+* If a word is already 100% kana, you should leave the `Kana` cell empty.
 * If a word is a common suru-verb, please add `（する）` to the `Japanese` column.
 * If the English translation is not enough to convey the full meaning, use the `Notes` column to elaborate.
 * Don't try to align the columns in the markdown below, it's impossible.
