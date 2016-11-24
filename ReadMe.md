@@ -159,7 +159,6 @@ Manager | 管理者 | かんりしゃ |
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Sales / Business | 営業 | えいぎょう |
-Salesperson | 営業者 | えいぎょうしゃ |
 Executive, company official | 役員 | やくいん |
 Chief technical officer | 最高技術責任者 | さいこうぎじゅつせきにんしゃ |
 Our company | 弊社 | へいしゃ |
