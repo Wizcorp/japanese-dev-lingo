@@ -96,7 +96,7 @@ Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Not implemented | 未実装 | みじっそう |
-Not implemented (Should have been implemebted) | 実装漏れ | じっそうもれ | 
+Not implemented (Should have been implemented) | 実装漏れ | じっそうもれ | 
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Feature | 機能 | きのう |
 Execution | 実行 | じっこう | Of a function or program
