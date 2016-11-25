@@ -90,9 +90,13 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
+Programmer | PG/エンジニア | エンジニア | 
+Engineer | PG | ぷろぐらまー |
 Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
+Not implemented | 未実装 | みじっそう |
+Not implemented (Should have been implemented) | 実装漏れ | じっそうもれ | 
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Feature | 機能 | きのう |
 Execution | 実行 | じっこう | Of a function or program
@@ -166,6 +170,7 @@ Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
 Manager | 管理者 | かんりしゃ |
 Infrastructure | インフラ | |
+System administrator | インフラ |
 
 
 ### Business
@@ -180,4 +185,5 @@ Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
 External / 3rd party | 外部 | がいぶ |
+Contractor | 外注先 | がいちゅうさき |
 Suspend, discontinue | 中止 | ちゅうし |
