@@ -110,6 +110,7 @@ Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
 Line | 〜行 | ぎょう | Eg. １３行 (line 13)
+Newline | 改行 | かいぎょう |
 To indent | インデント（する） | |
 foo / bar | ほげ / ほげほげ | |
 To assign | 割り当てる | わりあてる | To a variable
@@ -121,6 +122,9 @@ Null | ヌル | |
 Value | 値 | あたい |
 Return value | 戻り値 | もどりち |
 Function | 関数 | かんすう |
+Function name | 関数名 | かんすうめい |
+Pass-by-value | 値渡し | あたいわたし |
+Pass-by-pointer | ポインタ渡し | ポインタわたし |
 Inherit (from X) | （Xを）継承（する） | けいしょう |
 Static | 静的 | せいてき |
 Dynamic | 動的 | どうてき |
@@ -136,6 +140,8 @@ Revision number (git, application) | リビジョン番号 | リビジオンば�
 Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
 Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
+Conditional expression | 条件式 | じょうけんしき |
+Memory corruption | メモリ破壊　| メモリはかい　|
 
 
 ### Security
