@@ -44,6 +44,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 - [Computer And Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
+- [Projects](#projects)
 - [Software development](#software-development)
 - [Security](#security)
 - [Servers](#servers)
