@@ -90,13 +90,10 @@ Smartphone | スマホ / スマートフォン | |
 ### Presentations
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Color Scheme | カラースキーム
-Font | フォント |
 To present | 発表（する）| はっぴょう |
 Presentation | プレゼンテーション |
-Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of an presenation event you can attend
+Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of an presention event you can attend
 Slide | スライド |
-Template | テンプレート |
 
 
 ### Projects
@@ -112,6 +109,7 @@ Specification document | 仕様書 | しようしょ |
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
+Color Scheme | カラースキーム
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
@@ -119,6 +117,7 @@ Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Feature | 機能 | きのう |
+Font | フォント |
 Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
@@ -140,6 +139,7 @@ Pass-by-value | 値渡し | あたいわたし |
 Pass-by-pointer | ポインタ渡し | ポインタわたし |
 Inherit (from X) | （Xを）継承（する） | けいしょう |
 Static | 静的 | せいてき |
+Template | テンプレート |
 Dynamic | 動的 | どうてき |
 To optimize | 最適化（する） | さいてきか |
 Regular expression | 正規表現 | せいきひょうげん |
