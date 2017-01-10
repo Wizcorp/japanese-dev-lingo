@@ -147,7 +147,7 @@ To process | 処理（する）| しょり |
 To optimize | 最適化（する） | さいてきか |
 Revision number | リビジョン番号 | リビジオンばんごう | Git revision, app version
 Object Oriented Programming | オブジェクト指向 | オブジェクトしこう |
-Functional Programming) | 関数型プログラミング | かんすうがたプログラミング |
+Functional Programming | 関数型プログラミング | かんすうがたプログラミング |
 Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
