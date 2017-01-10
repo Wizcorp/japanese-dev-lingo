@@ -44,7 +44,8 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 - [Computer And Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
-- [Presenations](#presentations)
+- [Presentations](#presentations)
+- [Projects](#projects)
 - [Software development](#software-development)
 - [Security](#security)
 - [Servers](#servers)
@@ -65,8 +66,8 @@ Configuration | 構成 | こうせい |
 To save | 保存（する） | ほぞん |
 To input | 入力（する） | にゅうりょく |
 To output | 出力（する） | しゅつりょく |
-To boot / start | 起動（する） | きどう |
-To reboot / restart | 再起動（する） | さいきどう |
+To boot, start | 起動（する） | きどう |
+To reboot, restart | 再起動（する） | さいきどう |
 To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
 To edit | 編集（する） | へんしゅう |
@@ -88,60 +89,68 @@ Smartphone | スマホ / スマートフォン | |
 
 
 ### Presentations
+
 English | Japanese | Kana | Notes
 --------|----------|------|------
 To present | 発表（する）| はっぴょう |
-Presentation | プレゼンテーション |
-Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of an presention event you can attend
-Slide | スライド |
+Presentation | プレゼンテーション | |
+Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
+Slide | スライド | |
 
 
 ### Projects
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Plan / Project | 企画 | きかく |
+Plan, project | 企画 | きかく |
 Specification | 仕様 | しよう |
 Specification document | 仕様書 | しようしょ |
+Feature | 機能 | きのう |
 
 
 ### Software Development
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Color Scheme | カラースキーム
+Color Scheme | カラースキーム | |
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
-Feature | 機能 | きのう |
-Font | フォント |
+Font | フォント | |
 Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
 Line | 〜行 | ぎょう | Eg. １３行 (line 13)
 Newline | 改行 | かいぎょう |
 To indent | インデント（する） | |
-foo / bar | ほげ / ほげほげ | |
+Foo / bar | ほげ / ほげほげ | |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
 Type | 型 | かた | As in data type
 Variable | 変数 | へんすう |
-Argument | 引数 | ひきすう | To a function or program
-Null | ヌル | |
+Variable name | 変数名 | へんすうめい |
 Value | 値 | あたい |
-Return value | 戻り値 | もどりち |
+Null | ヌル | |
+Boolean | 真偽値 | しんぎち |
+String | 文字列 | もじれつ |
+Integer | 整数 | せいすう |
+Floating point number | 浮動小数点数 | ふどうしょうすうてんすう |
 Function | 関数 | かんすう |
 Function name | 関数名 | かんすうめい |
-Pass-by-value | 値渡し | あたいわたし |
-Pass-by-pointer | ポインタ渡し | ポインタわたし |
+Argument | 引数 | ひきすう | To a function or program
+Return value | 戻り値 | もどりち |
+Call by value | 値渡し | あたいわたし |
+Call by reference | 参照渡し | さんしょうわたし |
+Call by address | ポインタ渡し | ポインタわたし |
+Object | オブジェクト | |
+Class | クラス | |
 Inherit (from X) | （Xを）継承（する） | けいしょう |
 Static | 静的 | せいてき |
 Template | テンプレート |
 Dynamic | 動的 | どうてき |
-To optimize | 最適化（する） | さいてきか |
 Regular expression | 正規表現 | せいきひょうげん |
 Brackets, parentheses | 括弧 | かっこ |
 Synchronous | 同期 | どうき |
@@ -149,10 +158,11 @@ Asynchronous | 非同期 | ひどうき |
 To select | 選択（する） | せんたく |
 To search | 検索（する） | けんさく |
 To process | 処理（する）| しょり |
-Revision number (git, application) | リビジョン番号 | リビジオンばんごう |
-Object Oriented Programming (OOP) | オブジェクト指向 | オブジェクトしこう |
-Functional Programming (FP) | 関数型プログラミング | かんすうがたプログラミング |
-Artificial Intelligence (AI) | 人工知能 | じんこうちのう |
+To optimize | 最適化（する） | さいてきか |
+Revision number | リビジョン番号 | リビジオンばんごう | Git revision, app version
+Object Oriented Programming | オブジェクト指向 | オブジェクトしこう |
+Functional Programming | 関数型プログラミング | かんすうがたプログラミング |
+Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 
@@ -162,11 +172,11 @@ Memory corruption | メモリ破壊　| メモリはかい　|
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Authentication | 認証 | にんしょう |
-Authority / power | 権限 | けんげん |
+Authority, power | 権限 | けんげん |
 Basic Auth | ベーシック認証 | べーシックにんしょう |
 Cipher | 暗号 | あんごう |
 Encryption | 暗号化 | あんごうか |
-Cipher/encryption key | 暗号キー | あんごうキー
+Cipher / encryption key | 暗号キー | あんごうキー
 Countermeasure | 対策 | たいさく | Eg. against hackers
 
 
@@ -178,7 +188,7 @@ Server | サーバ / サーバー | |
 Physical server | 物理サーバ | ぶつりサーバ |
 Virtual server  | 仮想サーバ | かそうサーバ |
 Virtual machine | 仮想マシン | かそうマシン |
-Server layout / architecture | サーバ構成 | サーバこうせい |
+Server layout, architecture | サーバ構成 | サーバこうせい |
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
 
@@ -203,12 +213,12 @@ Continuous integration | 継続的インテグレーション | けいぞくて�
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
-Sales / Business | 営業 | えいぎょう |
+Sales, business | 営業 | えいぎょう |
 Executive, company official | 役員 | やくいん |
 Chief technical officer | 最高技術責任者 | さいこうぎじゅつせきにんしゃ |
 Our company | 弊社 | へいしゃ |
 Your company | 御社 | おんしゃ |
 Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
-External / 3rd party | 外部 | がいぶ |
+External, 3rd party | 外部 | がいぶ |
 Suspend, discontinue | 中止 | ちゅうし |
