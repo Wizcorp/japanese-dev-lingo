@@ -44,6 +44,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 - [Computer And Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
+- [Presentations](#presentations)
 - [Projects](#projects)
 - [Software development](#software-development)
 - [Security](#security)
@@ -87,6 +88,16 @@ Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯�
 Smartphone | スマホ / スマートフォン | |
 
 
+### Presentations
+
+English | Japanese | Kana | Notes
+--------|----------|------|------
+To present | 発表（する）| はっぴょう |
+Presentation | プレゼンテーション | |
+Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
+Slide | スライド | |
+
+
 ### Projects
 
 English | Japanese | Kana | Notes
@@ -101,12 +112,14 @@ Feature | 機能 | きのう |
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
+Color Scheme | カラースキーム | |
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
 Research and development, R&D | 開発研究 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
+Font | フォント | |
 Execution | 実行 | じっこう | Of a function or program
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
@@ -136,6 +149,7 @@ Object | オブジェクト | |
 Class | クラス | |
 Inherit (from X) | （Xを）継承（する） | けいしょう |
 Static | 静的 | せいてき |
+Template | テンプレート |
 Dynamic | 動的 | どうてき |
 Regular expression | 正規表現 | せいきひょうげん |
 Brackets, parentheses | 括弧 | かっこ |
