@@ -44,14 +44,13 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 
 - [Computer And Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
-- [Presentations](#presentations)
 - [Projects](#projects)
 - [Software development](#software-development)
 - [Security](#security)
 - [Servers](#servers)
 - [Operations](#operations)
 - [Business](#business)
-
+- [Presentations](#presentations)
 
 
 ### Computer and Application Usage
@@ -86,16 +85,6 @@ English | Japanese | Kana | Notes
 Device, terminal | 端末 | たんまつ | Smartphones, tablets, e-readers, command-line interfaces, etc
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Smartphone | スマホ / スマートフォン | |
-
-
-### Presentations
-
-English | Japanese | Kana | Notes
---------|----------|------|------
-To present | 発表（する）| はっぴょう |
-Presentation | プレゼンテーション | |
-Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
-Slide | スライド | |
 
 
 ### Projects
@@ -222,3 +211,13 @@ Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
 External, 3rd party | 外部 | がいぶ |
 Suspend, discontinue | 中止 | ちゅうし |
+
+
+### Presentations
+
+English | Japanese | Kana | Notes
+--------|----------|------|------
+To present | 発表（する）| はっぴょう |
+Presentation | プレゼンテーション | |
+Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
+Slide | スライド | |
