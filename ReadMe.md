@@ -73,6 +73,9 @@ To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
+Screenshot | スクリーンショット | | 
+Screenshot | スクショ | | Informal abbreviation 
+To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる | 
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
 To copy and paste | コピペ（する） | |
