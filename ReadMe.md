@@ -42,7 +42,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 ## Word list
 
 
-- [Computer And Application Usage](#computer-and-application-usage)
+- [Computer and Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
 - [Projects](#projects)
 - [Software development](#software-development)
