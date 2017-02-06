@@ -199,6 +199,7 @@ Management | 管理 | かんり | Of people, software, etc
 Manager | 管理者 | かんりしゃ |
 Infrastructure | インフラ | |
 Continuous integration | 継続的インテグレーション | けいぞくてきインテグレーション |
+To monitor | 監視（する） | かんし | |
 
 
 ### Business
