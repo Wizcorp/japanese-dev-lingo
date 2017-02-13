@@ -87,6 +87,7 @@ To copy and paste | コピペ（する） | |
 English | Japanese | Kana | Notes
 --------|----------|------|------
 Device, terminal | 端末 | たんまつ | Smartphones, tablets, e-readers, command-line interfaces, etc
+Cell phone | ケータイ / 携帯電話　| けいたいでんわ | standard (non-smartphone) cell phone　
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Tablet-PC | タブＰＣ / タブレットＰＣ |  | 
 Smartphone | スマホ / スマートフォン | |
