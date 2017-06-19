@@ -124,6 +124,7 @@ To indent | インデント（する） | |
 Foo / bar | ほげ / ほげほげ | |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
+Trial & Error | 試行錯誤 | しこうさくご | |
 Type | 型 | かた | As in data type
 Variable | 変数 | へんすう |
 Variable name | 変数名 | へんすうめい |
