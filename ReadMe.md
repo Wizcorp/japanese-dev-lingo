@@ -91,6 +91,7 @@ Cell Phone | 携帯電話 / 携帯 | けいたいでんわ / ケータイ | The 
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
 Tablet-PC | タブＰＣ / タブレットＰＣ |  | 
 Smartphone | スマホ / スマートフォン | |
+Projector | プロジェクター | |
 
 
 ### Projects
