@@ -189,8 +189,7 @@ Server layout, architecture | サーバ構成 | サーバこうせい |
 Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
 Scalability | 拡張性 | かくちょうせい |
-Abailability | 可用性 | かようせい |
-Alcohol | お酒 | おさけ |
+Availability | 可用性 | かようせい |
 
 
 ### Operations
