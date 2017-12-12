@@ -112,7 +112,7 @@ Color Scheme | カラースキーム | |
 Development | 開発 | かいはつ |
 Developer | 開発者 | かいはつしゃ |
 Development department | 開発部 | かいはつぶ |
-Research and development, R&D | 開発研究 | けんきゅうかいはつ
+Research and development, R&D | 研究開発 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
