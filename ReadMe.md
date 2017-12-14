@@ -241,4 +241,4 @@ To present | 発表（する）| はっぴょう |
 Presentation | プレゼンテーション | |
 Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
 Slide | スライド | |
-To make publically available | 公開（する） | こうかい |
+To make publicly available | 公開（する） | こうかい |
