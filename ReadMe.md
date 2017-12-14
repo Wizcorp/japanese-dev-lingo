@@ -80,6 +80,7 @@ To take a screenshot | スクリーンショットを撮る | スクリーンシ
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
 To copy and paste | コピペ（する） | |
+To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
 
 
 ### Devices
@@ -92,6 +93,7 @@ Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯�
 Tablet-PC | タブＰＣ / タブレットＰＣ |  | 
 Smartphone | スマホ / スマートフォン | |
 Projector | プロジェクター | |
+Push notification | プッシュ通知 | プッシュつうち |
 
 
 ### Projects
@@ -162,12 +164,16 @@ Functional Programming | 関数型プログラミング | かんすうがたプ�
 Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
+Bug | バグ | |
+Fix | 修正（する） | しゅうせい |
 
 
 ### Security
 
 English | Japanese | Kana | Notes
 --------|----------|------|------
+Attack | 攻撃 | こうげき |
+Attacker | 攻撃者 | こうげきしゃ |
 Authentication | 認証 | にんしょう |
 Authority, power | 権限 | けんげん |
 Basic Auth | ベーシック認証 | べーシックにんしょう |
@@ -175,6 +181,7 @@ Cipher | 暗号 | あんごう |
 Encryption | 暗号化 | あんごうか |
 Cipher / encryption key | 暗号キー | あんごうキー
 Countermeasure | 対策 | たいさく | Eg. against hackers
+Vulnerability | 脆弱性 | ぜいじゃくせい |
 
 
 ### Servers
@@ -190,6 +197,7 @@ Static IP | 固定IP | こていIP |
 Load | 負荷 | ふか |
 Scalability | 拡張性 | かくちょうせい |
 Availability | 可用性 | かようせい |
+Remote | 遠隔 | えんかく |
 
 
 ### Operations
@@ -200,6 +208,7 @@ Operation | 運用 | うんよう |
 Environment | 環境 | かんきょう |
 Production version / release | 本番 | ほんばん |
 Beta version | ベータ版 | ベータばん |
+Latest version | 最新版 | さいしんばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
@@ -232,3 +241,4 @@ To present | 発表（する）| はっぴょう |
 Presentation | プレゼンテーション | |
 Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
 Slide | スライド | |
+To make publically available | 公開（する） | こうかい |
