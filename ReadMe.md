@@ -165,7 +165,7 @@ Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
-Fix | 修正（する） | しゅうせい |
+To fix | 修正（する） | しゅうせい |
 
 
 ### Security
