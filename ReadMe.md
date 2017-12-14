@@ -207,8 +207,8 @@ English | Japanese | Kana | Notes
 Operation | 運用 | うんよう |
 Environment | 環境 | かんきょう |
 Production version / release | 本番 | ほんばん |
-Beta version | ベータ版 | ベータばん |
 Latest version | 最新版 | さいしんばん |
+Beta version | ベータ版 | ベータばん |
 Closed beta | クローズドベータ | |
 Front-end | フロントエンド | |
 Management | 管理 | かんり | Of people, software, etc
