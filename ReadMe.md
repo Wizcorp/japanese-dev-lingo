@@ -182,6 +182,7 @@ Encryption | 暗号化 | あんごうか |
 Cipher / encryption key | 暗号キー | あんごうキー
 Countermeasure | 対策 | たいさく | Eg. against hackers
 Vulnerability | 脆弱性 | ぜいじゃくせい |
+To jailbreak | 脱獄（する） | だつごく | Eg. iPhone
 
 
 ### Servers
