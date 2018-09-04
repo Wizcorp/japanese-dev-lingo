@@ -82,7 +82,6 @@ To display | 表示（する） | ひょうじ |
 To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
 
-
 ### Devices
 
 English | Japanese | Kana | Notes
@@ -167,7 +166,7 @@ Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
 To fix | 修正（する） | しゅうせい |
-
+Embedded system | 組込みシステム | くみこみシステム |
 
 ### Security
 
