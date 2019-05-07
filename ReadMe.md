@@ -81,6 +81,7 @@ Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
 To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
+To connect | 接続（する） | せつぞく |
 
 ### Devices
 
@@ -232,6 +233,8 @@ Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
 External, 3rd party | 外部 | がいぶ |
 Suspend, discontinue | 中止 | ちゅうし |
+Quotation | 見積 | みつもり |
+Request for Quotation (RFQ) | 見積依頼 | みつもりいらい |
 
 
 ### Presentations
