@@ -233,7 +233,7 @@ Office | 事務所 | じむしょ |
 In-house | 社内 | しゃない |
 External, 3rd party | 外部 | がいぶ |
 Suspend, discontinue | 中止 | ちゅうし |
-Quotation | 見積 | みつもり |
+Quotation | 見積もり | みつもり | Alternative forms: 見積り, 見積
 Request for Quotation (RFQ) | 見積依頼 | みつもりいらい |
 
 
