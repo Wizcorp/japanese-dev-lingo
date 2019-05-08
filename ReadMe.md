@@ -51,6 +51,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 - [Operations](#operations)
 - [Business](#business)
 - [Presentations](#presentations)
+- [Electrical Engineering](#electrical-engineering)
 
 
 ### Computer and Application Usage
@@ -74,9 +75,9 @@ To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
-Screenshot | スクリーンショット | | 
-Screenshot | スクショ | | Informal abbreviation 
-To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる | 
+Screenshot | スクリーンショット | |
+Screenshot | スクショ | | Informal abbreviation
+To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
 To copy and paste | コピペ（する） | |
@@ -90,7 +91,7 @@ English | Japanese | Kana | Notes
 Device, terminal | 端末 | たんまつ | Smartphones, tablets, e-readers, command-line interfaces, etc
 Cell Phone | 携帯電話 / 携帯 | けいたいでんわ / ケータイ | The latter is an (informal) abbreviation commonly used
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
-Tablet-PC | タブＰＣ / タブレットＰＣ |  | 
+Tablet-PC | タブＰＣ / タブレットＰＣ |  |
 Smartphone | スマホ / スマートフォン | |
 Projector | プロジェクター | |
 Push notification | プッシュ通知 | プッシュつうち |
@@ -235,6 +236,7 @@ External, 3rd party | 外部 | がいぶ |
 Suspend, discontinue | 中止 | ちゅうし |
 Quotation | 見積もり | みつもり | Alternative forms: 見積り, 見積
 Request for Quotation (RFQ) | 見積依頼 | みつもりいらい |
+Supplier | 仕入れ先 | しいれさき | Alternative form: 仕入先
 
 
 ### Presentations
@@ -246,3 +248,54 @@ Presentation | プレゼンテーション | |
 Presentation (Meeting) | 発表会 | はっぴょうかい | In the sense of a presentation you can attend
 Slide | スライド | |
 To make publicly available | 公開（する） | こうかい |
+
+
+### Electrical Engineering
+
+English | Japanese | Kana | Notes
+--------|----------|------|------
+Ampere | アンペア | | E.g. 1A ⇒ 1アンペア
+Bill of Materials (BOM) | 部品表 | ぶひんひょう |
+Blind via | べリッドビア | |
+Burried via | ブラインドビア | |
+Capacitor | コンデンサ | | Alternatively: キャパシタ
+Circuit | 回路 | かいろ |
+Circuit diagram (Schematic) | 回路図 | かいろず |
+Component placement diagram | 部品配置図 | ぶひんはいちず
+Conduction | 導電 | どうでん |
+Conductivity | 導電性 | どうでんせい |
+Connector | コネクタ | |
+Current | 電流 | でんりゅう |
+Datasheet | データシート | |
+Diode | ダイオード | |
+Drawing | 図面 | ずめん |
+Fuse | ヒューズ | |
+Heat sink | ヒートシンク | |
+Inductor | インダクタ | |
+Integrated Circuit (IC) | 集積回路 | しゅうせきかいろ
+Layer | 層 | そう | E.g. 4-layer ⇒ 4層
+Layout | パターン設計 | パターンせっけい | As in "PCB layout"
+Layout drawing | パターン図 | パターンず | As in "PCB layout"
+To Measure | 測定（する） | そくてい
+Microcontroller (MCU) | マイコン | |
+Plated hole | スルーホール | |
+Printed Circuit Board (PCB) | 基板 | きばん |
+Relay | リレー | |
+Resistance | 抵抗 | ていこう |
+Resistor | 抵抗器 | ていこうき |
+Signal | 信号 | しんごう |
+Solder | 半田 | はんだ | Can also be written in Hiragana or Katakana
+Soldering iron | 半田ごて | はんだごて |
+Soldering | はんだ付け | はんだづけ |
+Stencil | メタルマスク | | For solder paste application
+Surface-mount technology (SMT) | 表面実装 | ひょうめんじっそう |
+Switch | スイッチ | |
+Termination | 終端　| しゅうたん | As in "50Ω termination resistor"
+Through-hole technology (THT) | スルーホール実装 | スルーホールじっそう |
+Transistor | トランジスタ | |
+Unplated hole | ノンスルーホール | | NOTE: Do not confuse this with a blind via.
+Volt | ボルト | | E.g. 5V ⇒ 5ボルト
+Voltage | 電圧 | でんあつ |
+Via | ビアホール | | Alternatively, just ビア
+Wiring | 配線 | はいせん |
+Wiring Diagram | 配線図 | はいせんず |
