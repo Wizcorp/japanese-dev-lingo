@@ -262,6 +262,7 @@ Capacitor | コンデンサ | | Alternatively: キャパシタ
 Circuit | 回路 | かいろ |
 Circuit diagram (Schematic) | 回路図 | かいろず |
 Component placement diagram | 部品配置図 | ぶひんはいちず
+Communications | 通信 | つうしん |
 Conduction | 導電 | どうでん |
 Conductivity | 導電性 | どうでんせい |
 Connector | コネクタ | |
@@ -269,6 +270,8 @@ Current | 電流 | でんりゅう |
 Datasheet | データシート | |
 Diode | ダイオード | |
 Drawing | 図面 | ずめん |
+Electrolytic	| 電解 | だんかい |
+Frequency	| 周波数 | しゅうはすう|
 Fuse | ヒューズ | |
 Heat sink | ヒートシンク | |
 Inductor | インダクタ | |
@@ -280,6 +283,7 @@ To Measure | 測定（する） | そくてい
 Microcontroller (MCU) | マイコン | |
 Plated hole | スルーホール | |
 Printed Circuit Board (PCB) | 基板 | きばん |
+Reception | 受信 | じゅしん |
 Relay | リレー | |
 Resistance | 抵抗 | ていこう |
 Resistor | 抵抗器 | ていこうき |
@@ -293,6 +297,7 @@ Switch | スイッチ | |
 Termination | 終端　| しゅうたん | As in "50Ω termination resistor"
 Through-hole technology (THT) | スルーホール実装 | スルーホールじっそう |
 Transistor | トランジスタ | |
+Transmission | 送信 | そうしん |
 Unplated hole | ノンスルーホール | | NOTE: Do not confuse this with a blind via.
 Volt | ボルト | | E.g. 5V ⇒ 5ボルト
 Voltage | 電圧 | でんあつ |
