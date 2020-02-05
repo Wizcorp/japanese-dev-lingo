@@ -126,6 +126,18 @@ Line | 〜行 | ぎょう | Eg. １３行 (line 13)
 Newline | 改行 | かいぎょう |
 To indent | インデント（する） | |
 Foo / bar | ほげ / ほげほげ | |
+Item | 項目 | こうもく |
+Details | 詳細 | しょうさい |
+Requirements | 要求 | ようきゅう |
+Enabled | 有効 | ゆうこう |
+Disabled | 無効 | むこう |
+Factory reset | 初期化	| しょきか |
+Conversion | 変換 | へんかん |
+To control | 制御 (する) | せいぎょ |
+To apply | 適用 (する) | てきよう |
+Static | 静的 | せいてき |
+Fixed | 固定 | こてい |
+To refer to | 参照 (する) | さんしょう |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
 Trial & Error | 試行錯誤 | しこうさくご | |
