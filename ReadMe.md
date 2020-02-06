@@ -135,9 +135,7 @@ Factory reset | 初期化	| しょきか |
 Conversion | 変換 | へんかん |
 To control | 制御 (する) | せいぎょ |
 To apply | 適用 (する) | てきよう |
-Static | 静的 | せいてき |
 Fixed | 固定 | こてい |
-To refer to | 参照 (する) | さんしょう |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
 Trial & Error | 試行錯誤 | しこうさくご | |
@@ -155,6 +153,7 @@ Function | 関数 | かんすう |
 Function name | 関数名 | かんすうめい |
 Argument | 引数 | ひきすう | To a function or program
 Return value | 戻り値 | もどりち |
+To refer to | 参照 (する) | さんしょう |
 Call by value | 値渡し | あたいわたし |
 Call by reference | 参照渡し | さんしょうわたし |
 Call by address | ポインタ渡し | ポインタわたし |
@@ -282,8 +281,8 @@ Current | 電流 | でんりゅう |
 Datasheet | データシート | |
 Diode | ダイオード | |
 Drawing | 図面 | ずめん |
-Electrolytic	| 電解 | だんかい |
-Frequency	| 周波数 | しゅうはすう|
+Electrolytic | 電解 | だんかい |
+Frequency | 周波数 | しゅうはすう |
 Fuse | ヒューズ | |
 Heat sink | ヒートシンク | |
 Inductor | インダクタ | |
