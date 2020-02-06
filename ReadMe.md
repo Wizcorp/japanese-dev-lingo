@@ -126,6 +126,16 @@ Line | 〜行 | ぎょう | Eg. １３行 (line 13)
 Newline | 改行 | かいぎょう |
 To indent | インデント（する） | |
 Foo / bar | ほげ / ほげほげ | |
+Item | 項目 | こうもく |
+Details | 詳細 | しょうさい |
+Requirements | 要求 | ようきゅう |
+Enabled | 有効 | ゆうこう |
+Disabled | 無効 | むこう |
+Factory reset | 初期化	| しょきか |
+Conversion | 変換 | へんかん |
+To control | 制御 (する) | せいぎょ |
+To apply | 適用 (する) | てきよう |
+Fixed | 固定 | こてい |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
 Trial & Error | 試行錯誤 | しこうさくご | |
@@ -143,6 +153,7 @@ Function | 関数 | かんすう |
 Function name | 関数名 | かんすうめい |
 Argument | 引数 | ひきすう | To a function or program
 Return value | 戻り値 | もどりち |
+To refer to | 参照 (する) | さんしょう |
 Call by value | 値渡し | あたいわたし |
 Call by reference | 参照渡し | さんしょうわたし |
 Call by address | ポインタ渡し | ポインタわたし |
@@ -262,6 +273,7 @@ Capacitor | コンデンサ | | Alternatively: キャパシタ
 Circuit | 回路 | かいろ |
 Circuit diagram (Schematic) | 回路図 | かいろず |
 Component placement diagram | 部品配置図 | ぶひんはいちず
+Communications | 通信 | つうしん |
 Conduction | 導電 | どうでん |
 Conductivity | 導電性 | どうでんせい |
 Connector | コネクタ | |
@@ -269,6 +281,8 @@ Current | 電流 | でんりゅう |
 Datasheet | データシート | |
 Diode | ダイオード | |
 Drawing | 図面 | ずめん |
+Electrolytic | 電解 | だんかい |
+Frequency | 周波数 | しゅうはすう |
 Fuse | ヒューズ | |
 Heat sink | ヒートシンク | |
 Inductor | インダクタ | |
@@ -280,6 +294,7 @@ To Measure | 測定（する） | そくてい
 Microcontroller (MCU) | マイコン | |
 Plated hole | スルーホール | |
 Printed Circuit Board (PCB) | 基板 | きばん |
+Reception | 受信 | じゅしん |
 Relay | リレー | |
 Resistance | 抵抗 | ていこう |
 Resistor | 抵抗器 | ていこうき |
@@ -293,6 +308,7 @@ Switch | スイッチ | |
 Termination | 終端　| しゅうたん | As in "50Ω termination resistor"
 Through-hole technology (THT) | スルーホール実装 | スルーホールじっそう |
 Transistor | トランジスタ | |
+Transmission | 送信 | そうしん |
 Unplated hole | ノンスルーホール | | NOTE: Do not confuse this with a blind via.
 Volt | ボルト | | E.g. 5V ⇒ 5ボルト
 Voltage | 電圧 | でんあつ |
