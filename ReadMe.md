@@ -71,8 +71,10 @@ To reboot, restart | 再起動（する） | さいきどう |
 To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
 To add | 追加（する） | ついか |
+To insert/include | 組み込み (する) | くみこみ |
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
+Processing | 処理中 | しょりちゅう |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
 Screenshot | スクリーンショット | |
@@ -144,7 +146,9 @@ Type | 型 | かた | As in data type
 Variable | 変数 | へんすう |
 Variable name | 変数名 | へんすうめい |
 Value | 値 | あたい |
+Initial value | 初期値 | しょきち |
 Null | ヌル | |
+Concatenation | 定数 | ていすう |
 Boolean | 真偽値 | しんぎち |
 String | 文字列 | もじれつ |
 Integer | 整数 | せいすう |
@@ -267,9 +271,11 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Ampere | アンペア | | E.g. 1A ⇒ 1アンペア
 Bill of Materials (BOM) | 部品表 | ぶひんひょう |
+Bidirectional | 双方向 | そうほうこ |
 Blind via | べリッドビア | |
 Burried via | ブラインドビア | |
 Capacitor | コンデンサ | | Alternatively: キャパシタ
+Certification | 認証 | にんしょう |
 Circuit | 回路 | かいろ |
 Circuit diagram (Schematic) | 回路図 | かいろず |
 Component placement diagram | 部品配置図 | ぶひんはいちず
@@ -278,8 +284,10 @@ Conduction | 導電 | どうでん |
 Conductivity | 導電性 | どうでんせい |
 Connector | コネクタ | |
 Current | 電流 | でんりゅう |
+Daisy-chain | 橋渡し | はしわたし |
 Datasheet | データシート | |
 Diode | ダイオード | |
+Display | 表示 | ひょうじ |
 Drawing | 図面 | ずめん |
 Electrolytic | 電解 | だんかい |
 Frequency | 周波数 | しゅうはすう |
@@ -292,12 +300,15 @@ Layout | パターン設計 | パターンせっけい | As in "PCB layout"
 Layout drawing | パターン図 | パターンず | As in "PCB layout"
 To Measure | 測定（する） | そくてい
 Microcontroller (MCU) | マイコン | |
+Part number | 品番 | ひんばん |
 Plated hole | スルーホール | |
 Printed Circuit Board (PCB) | 基板 | きばん |
+Prototype | 試作 | しさく |
 Reception | 受信 | じゅしん |
 Relay | リレー | |
 Resistance | 抵抗 | ていこう |
 Resistor | 抵抗器 | ていこうき |
+Sales distributor | 販売代理店 | はんばいだいりてん |
 Signal | 信号 | しんごう |
 Solder | 半田 | はんだ | Can also be written in Hiragana or Katakana
 Soldering iron | 半田ごて | はんだごて |
@@ -312,6 +323,7 @@ Transmission | 送信 | そうしん |
 Unplated hole | ノンスルーホール | | NOTE: Do not confuse this with a blind via.
 Volt | ボルト | | E.g. 5V ⇒ 5ボルト
 Voltage | 電圧 | でんあつ |
+Voltage level shifter | 電圧レベル変換 | でんあつれべるへんかん |
 Via | ビアホール | | Alternatively, just ビア
 Wiring | 配線 | はいせん |
 Wiring Diagram | 配線図 | はいせんず |
