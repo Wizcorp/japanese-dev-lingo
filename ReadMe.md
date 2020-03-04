@@ -286,10 +286,12 @@ Connector | コネクタ | |
 Current | 電流 | でんりゅう |
 Daisy-chain | 橋渡し | はしわたし |
 Datasheet | データシート | |
+Detection | 検知 | けんち |
 Diode | ダイオード | |
 Display | 表示 | ひょうじ |
 Drawing | 図面 | ずめん |
 Electrolytic | 電解 | だんかい |
+Extender cable | 延長コード | えんちょうこっど |
 Frequency | 周波数 | しゅうはすう |
 Fuse | ヒューズ | |
 Heat sink | ヒートシンク | |
@@ -298,8 +300,10 @@ Integrated Circuit (IC) | 集積回路 | しゅうせきかいろ
 Layer | 層 | そう | E.g. 4-layer ⇒ 4層
 Layout | パターン設計 | パターンせっけい | As in "PCB layout"
 Layout drawing | パターン図 | パターンず | As in "PCB layout"
-To Measure | 測定（する） | そくてい
+Magnet | 磁石 | じしゃく |
+To Measure | 測定（する） | そくてい |
 Microcontroller (MCU) | マイコン | |
+Modulator | 変調 | へんちょう |
 Part number | 品番 | ひんばん |
 Plated hole | スルーホール | |
 Printed Circuit Board (PCB) | 基板 | きばん |
@@ -320,6 +324,7 @@ Termination | 終端　| しゅうたん | As in "50Ω termination resistor"
 Through-hole technology (THT) | スルーホール実装 | スルーホールじっそう |
 Transistor | トランジスタ | |
 Transmission | 送信 | そうしん |
+Transparent | 透明 | とうめい |
 Unplated hole | ノンスルーホール | | NOTE: Do not confuse this with a blind via.
 Volt | ボルト | | E.g. 5V ⇒ 5ボルト
 Voltage | 電圧 | でんあつ |
