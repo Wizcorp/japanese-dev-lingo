@@ -74,7 +74,7 @@ To add | 追加（する） | ついか |
 To insert/include | 組み込み (する) | くみこみ |
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
-Processing | 処理中 | しょりちゅう |
+Processing | 処理 | しょり |
 Automatic | 自動 | じどう |
 Screen | 画面 | がめん |
 Screenshot | スクリーンショット | |
@@ -148,7 +148,7 @@ Variable name | 変数名 | へんすうめい |
 Value | 値 | あたい |
 Initial value | 初期値 | しょきち |
 Null | ヌル | |
-Concatenation | 定数 | ていすう |
+Concatenation | 連結 | れんけつ |
 Boolean | 真偽値 | しんぎち |
 String | 文字列 | もじれつ |
 Integer | 整数 | せいすう |
@@ -288,7 +288,6 @@ Daisy-chain | 橋渡し | はしわたし |
 Datasheet | データシート | |
 Detection | 検知 | けんち |
 Diode | ダイオード | |
-Display | 表示 | ひょうじ |
 Drawing | 図面 | ずめん |
 Electrolytic | 電解 | だんかい |
 Extender cable | 延長コード | えんちょうこっど |
@@ -303,7 +302,7 @@ Layout drawing | パターン図 | パターンず | As in "PCB layout"
 Magnet | 磁石 | じしゃく |
 To Measure | 測定（する） | そくてい |
 Microcontroller (MCU) | マイコン | |
-Modulator | 変調 | へんちょう |
+Modulation | 変調 | へんちょう |
 Part number | 品番 | ひんばん |
 Plated hole | スルーホール | |
 Printed Circuit Board (PCB) | 基板 | きばん |
