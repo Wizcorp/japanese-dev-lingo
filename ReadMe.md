@@ -148,7 +148,7 @@ Variable name | 変数名 | へんすうめい |
 Value | 値 | あたい |
 Initial value | 初期値 | しょきち |
 Null | ヌル | |
-Concatenation | 連結 | れんけつ |
+To concatenate | 連結（する）| れんけつ |
 Boolean | 真偽値 | しんぎち |
 String | 文字列 | もじれつ |
 Integer | 整数 | せいすう |
@@ -284,7 +284,6 @@ Conduction | 導電 | どうでん |
 Conductivity | 導電性 | どうでんせい |
 Connector | コネクタ | |
 Current | 電流 | でんりゅう |
-Daisy-chain | 橋渡し | はしわたし |
 Datasheet | データシート | |
 Detection | 検知 | けんち |
 Diode | ダイオード | |
