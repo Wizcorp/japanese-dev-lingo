@@ -93,8 +93,8 @@ English | Japanese | Kana | Notes
 Device, terminal | 端末 | たんまつ | Smartphones, tablets, e-readers, command-line interfaces, etc
 Cell Phone | 携帯電話 / 携帯 | けいたいでんわ / ケータイ | The latter is an (informal) abbreviation commonly used
 Japanese feature phone | ガラ携 | ガラけい | From ガラパゴス携帯電話
-Tablet-PC | タブＰＣ / タブレットＰＣ |  |
 Smartphone | スマホ / スマートフォン | |
+Tablet-PC | タブＰＣ / タブレットＰＣ | |
 Projector | プロジェクター | |
 Push notification | プッシュ通知 | プッシュつうち |
 
@@ -272,8 +272,8 @@ English | Japanese | Kana | Notes
 Ampere | アンペア | | E.g. 1A ⇒ 1アンペア
 Bill of Materials (BOM) | 部品表 | ぶひんひょう |
 Bidirectional | 双方向 | そうほうこ |
-Blind via | べリッドビア | |
-Burried via | ブラインドビア | |
+Blind via | ブラインドビア | |
+Burried via | べリッドビア | |
 Capacitor | コンデンサ | | Alternatively: キャパシタ
 Certification | 認証 | にんしょう |
 Circuit | 回路 | かいろ |
