@@ -72,6 +72,7 @@ To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
 To add | 追加（する） | ついか |
 To insert/include | 組み込み (する) | くみこみ |
+To insert | 挿入 (する) | そうにゅう| text, a cd
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
 Processing | 処理 | しょり |
@@ -122,6 +123,8 @@ Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
 Execution | 実行 | じっこう | Of a function or program
+Dependency | 依存関係 | いぞんかんけい
+To resolve | 解決 (する)| かいけつ |　a dependency
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
 Line | 〜行 | ぎょう | Eg. １３行 (line 13)
