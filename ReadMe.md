@@ -83,7 +83,8 @@ Screenshot | スクショ | | Informal abbreviation
 To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
-To copy | コピー |
+To copy | コピー(する) |
+To cut | 切り取る | きりとる
 To paste | 貼り付け(する) | はりつけ
 To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
