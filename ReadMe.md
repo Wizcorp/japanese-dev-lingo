@@ -72,7 +72,7 @@ To update | 更新（する） | こうしん |
 To register | 登録（する） | とうろく |
 To add | 追加（する） | ついか |
 To insert/include | 組み込み (する) | くみこみ |
-To insert | 挿入 (する) | そうにゅう| text, a cd
+To insert | 挿入 (する) | そうにゅう| Eg. text, a CD
 To edit | 編集（する） | へんしゅう |
 To delete / remove | 削除（する） | さくじょ |
 Processing | 処理 | しょり |
@@ -83,6 +83,8 @@ Screenshot | スクショ | | Informal abbreviation
 To take a screenshot | スクリーンショットを撮る | スクリーンショットをとる |
 Video | 動画 | どうが |
 To display | 表示（する） | ひょうじ |
+To copy | コピー |
+To paste | 貼り付け(する) | はりつけ
 To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
 To connect | 接続（する） | せつぞく |
@@ -124,7 +126,7 @@ Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
 Execution | 実行 | じっこう | Of a function or program
 Dependency | 依存関係 | いぞんかんけい
-To resolve | 解決 (する)| かいけつ |　a dependency
+To resolve | 解決 (する)| かいけつ | Eg. a dependency
 Structure | 仕組み | しくみ | Eg. of code
 Format | 形式 | けいしき | Eg. of data
 Line | 〜行 | ぎょう | Eg. １３行 (line 13)
