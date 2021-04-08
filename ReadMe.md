@@ -307,7 +307,7 @@ Layout | パターン設計 | パターンせっけい | As in "PCB layout"
 Layout drawing | パターン図 | パターンず | As in "PCB layout"
 Magnet | 磁石 | じしゃく |
 To Measure | 測定（する） | そくてい |
-Metal film (resistor) | 金属皮膜 | きんぞくひまく | Alternatively: きんぞくフィルム
+Metal film (resistor) | 金属皮膜 | きんぞくひまく | Alternatively: きんぞくフィルム |
 Microcontroller (MCU) | マイコン | |
 Modulation | 変調 | へんちょう |
 Part number | 品番 | ひんばん |
