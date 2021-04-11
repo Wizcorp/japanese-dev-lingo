@@ -125,6 +125,7 @@ Research and development, R&D | 研究開発 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
+Input Field | 入力欄 | 入力欄 | Eg. in a web form |
 Execution | 実行 | じっこう | Of a function or program
 Dependency | 依存関係 | いぞんかんけい
 To resolve | 解決 (する)| かいけつ | Eg. a dependency
