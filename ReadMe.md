@@ -281,6 +281,7 @@ Bidirectional | 双方向 | そうほうこ |
 Blind via | ブラインドビア | |
 Burried via | べリッドビア | |
 Capacitor | コンデンサ | | Alternatively: キャパシタ
+Carbon film (resistor) | カーボン皮膜 | カーボンひまく | Alternatively: カーボンフィルム |
 Certification | 認証 | にんしょう |
 Circuit | 回路 | かいろ |
 Circuit diagram (Schematic) | 回路図 | かいろず |
@@ -306,6 +307,7 @@ Layout | パターン設計 | パターンせっけい | As in "PCB layout"
 Layout drawing | パターン図 | パターンず | As in "PCB layout"
 Magnet | 磁石 | じしゃく |
 To Measure | 測定（する） | そくてい |
+Metal film (resistor) | 金属皮膜 | きんぞくひまく | Alternatively: きんぞくフィルム |
 Microcontroller (MCU) | マイコン | |
 Modulation | 変調 | へんちょう |
 Part number | 品番 | ひんばん |
