@@ -143,6 +143,7 @@ Factory reset | 初期化	| しょきか |
 Conversion | 変換 | へんかん |
 To control | 制御 (する) | せいぎょ |
 To apply | 適用 (する) | てきよう |
+Patch | パッチ | | パッチを適用する |
 Fixed | 固定 | こてい |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
@@ -188,6 +189,8 @@ Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
+Bug | 不具合 | ふぐあい |
+Reproduce | 再現（する） | さいげん | 不具合を再現する | 
 To fix | 修正（する） | しゅうせい |
 Embedded system | 組込みシステム | くみこみシステム |
 
