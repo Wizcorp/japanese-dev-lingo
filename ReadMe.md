@@ -136,6 +136,7 @@ Research and development, R&D | 研究開発 | けんきゅうかいはつ
 Implementation | 実装 | じっそう |
 Design | 設計 | せっけい | Of code, infrastructure and systems, etc.
 Font | フォント | |
+Input Field | 入力欄 | にゅうりょくらん | Eg. in a web form |
 Execution | 実行 | じっこう | Of a function or program
 Dependency | 依存関係 | いぞんかんけい
 To resolve | 解決 (する)| かいけつ | Eg. a dependency
@@ -154,6 +155,7 @@ Factory reset | 初期化	| しょきか |
 Conversion | 変換 | へんかん |
 To control | 制御 (する) | せいぎょ |
 To apply | 適用 (する) | てきよう |
+Patch | パッチ | | パッチを適用する |
 Fixed | 固定 | こてい |
 To assign | 割り当てる | わりあてる | To a variable
 To define | 定義（する） | ていぎ |
@@ -199,6 +201,8 @@ Artificial Intelligence | 人工知能 | じんこうちのう |
 Conditional expression | 条件式 | じょうけんしき |
 Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
+Bug | 不具合 | ふぐあい |
+Reproduce | 再現（する） | さいげん | 不具合を再現する | 
 To fix | 修正（する） | しゅうせい |
 Embedded system | 組込みシステム | くみこみシステム |
 
@@ -293,6 +297,7 @@ Bidirectional | 双方向 | そうほうこ |
 Blind via | ブラインドビア | |
 Burried via | べリッドビア | |
 Capacitor | コンデンサ | | Alternatively: キャパシタ
+Carbon film (resistor) | カーボン皮膜 | カーボンひまく | Alternatively: カーボンフィルム |
 Certification | 認証 | にんしょう |
 Circuit | 回路 | かいろ |
 Circuit diagram (Schematic) | 回路図 | かいろず |
@@ -318,6 +323,7 @@ Layout | パターン設計 | パターンせっけい | As in "PCB layout"
 Layout drawing | パターン図 | パターンず | As in "PCB layout"
 Magnet | 磁石 | じしゃく |
 To Measure | 測定（する） | そくてい |
+Metal film (resistor) | 金属皮膜 | きんぞくひまく | Alternatively: きんぞくフィルム |
 Microcontroller (MCU) | マイコン | |
 Modulation | 変調 | へんちょう |
 Part number | 品番 | ひんばん |
