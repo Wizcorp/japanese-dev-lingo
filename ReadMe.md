@@ -45,6 +45,7 @@ guidelines though, to keep things consistent and avoid it exploding into a copy 
 - [Computer and Application Usage](#computer-and-application-usage)
 - [Devices](#devices)
 - [Projects](#projects)
+- [Software](#software)
 - [Software development](#software-development)
 - [Security](#security)
 - [Servers](#servers)
@@ -90,6 +91,7 @@ To copy and paste | コピペ（する） | |
 To support | 対応（する） | たいおう | As in "compatibility", not "customer support"
 To connect | 接続（する） | せつぞく |
 
+
 ### Devices
 
 English | Japanese | Kana | Notes
@@ -111,6 +113,15 @@ Plan, project | 企画 | きかく |
 Specification | 仕様 | しよう |
 Specification document | 仕様書 | しようしょ |
 Feature | 機能 | きのう |
+
+
+### Software
+
+English | Japanese | Kana | Notes
+--------|----------|------|------
+Word Processor | ワープロ |
+Word Processing Software | ワープロソフト |
+Spread Sheet | 表計算 | ひょうけいさん |
 
 
 ### Software Development
@@ -190,6 +201,7 @@ Memory corruption | メモリ破壊　| メモリはかい　|
 Bug | バグ | |
 To fix | 修正（する） | しゅうせい |
 Embedded system | 組込みシステム | くみこみシステム |
+
 
 ### Security
 
