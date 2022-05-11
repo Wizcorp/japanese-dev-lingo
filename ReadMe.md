@@ -121,7 +121,7 @@ English | Japanese | Kana | Notes
 --------|----------|------|------
 Word Processor | ワープロ |
 Word Processing Software | ワープロソフト |
-Spread Sheet | 表計算 | ひょうけいさん |
+Spreadsheet | 表計算 | ひょうけいさん |
 
 
 ### Software Development
